@@ -1,4 +1,7 @@
-### Notes
-Might be necessary to acitvate venv each run.
+## About
 
-$ source $HOME/tmp/deepspeech-venv/bin/activate
+`dvai` converts speech into shell commands.
+
+
+## Issues and missing Features
++ Add a menu for input device selection.
