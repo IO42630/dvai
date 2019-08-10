@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(name = 'dvai',
       version = '0.0.1',
-      description = 'Authentication and Authorization for Constrained Environments',
+      description = '',
       url = 'https://github.com/IO4263066/dvai',
       author = 'Ivan Olexyn',
       author_email = 'ivan@olexyn.com',
